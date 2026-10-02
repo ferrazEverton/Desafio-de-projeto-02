@@ -1,0 +1,29 @@
+#  Ferramenta para auxilio no controle de renda 
+
+> Uma ferramenta prática no Excel para gerenciar a renda recebida ao longo de determinado período 
+
+---
+
+##  Sobre o Projeto
+
+Esta planilha foi desenvolvida para ajudar investidores a organizar e automatizar o controle de receitas pessoais
+
+##  Recursos e Funcionalidades
+
+A planilha é estruturada de forma inteligente e conta com os seguintes módulos:
+
+*   **Painel Informes  :**Onde o usuário consegue inserir dados bancários  banco o valor atual e o nome do arquivo em anexo do informe de rendimentos ,.
+*   *   **Painel Notas : Onde o usuário consegue inserir os dados relacionados a fonte de renda , podendo escolher entre holerite , cnpj e freelance , imputar o valor e a data 
+
+
+*   **Gráficos Dinâmicos:** Análise visual do valor acumulado na aba de bancos ; visualização do montante recebido relacionado ao tipo de fonte pagadora.
+Graficos são dinâmicos se alterando de acordo com a inserção dos dados 
+
+
+##  Observações Importantes
+
+*   **Fórmulas Protegidas:** Algumas células com fórmulas matemáticas complexas podem estar bloqueadas para evitar exclusões acidentais.
+
+
+---
+*Aviso: Esta planilha é uma ferramenta de controle pessoal relacionada ao imposto de renda e não constitui recomendação um profissional na área de contabilidade*
